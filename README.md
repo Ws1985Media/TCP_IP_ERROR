@@ -1,0 +1,2 @@
+# TCP_IP_ERROR
+I am getting an error on line 24 TRYING TO GET PROPERTY OF NON-OBJECT
